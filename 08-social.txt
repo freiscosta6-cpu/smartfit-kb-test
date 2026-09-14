@@ -1,0 +1,24 @@
+# Social — Smart Fit
+
+## Como criar meu perfil no Social?
+R: Para aproveitar os recursos do Social, é preciso ativar no app, aceitar os Termos de Uso e configurar manualmente suas informações.
+Cada aluno pode ter apenas um perfil, e o nome do perfil vem diretamente do cadastro no Espaço do Cliente. Você pode optar por deixar seu perfil privado ou público nas configurações de privacidade.
+
+## Como funcionam as postagens dentro do Social?
+R: Você pode postar fotos sozinho, do ambiente ou com amigos (com autorização, claro!). Interaja com as postagens de outros usuários através de curtidas e comentários no feed ou nos grupos. Após a postagem, você pode editar utilizando os três pontinhos ou compartilhar a postagem em outras redes/apps. Também é possível excluir as publicações, mas fique atento pois esse processo é irreversível.
+
+## Como reportar conteúdos ofensivos dento do Social?
+R: Você pode utilizar a opção de denúncia dentro do próprio app para reportar publicações ou perfis que não atendam às regras da plataforma. Clique nos três pontinhos, selecione "Denunciar" e siga as instruções.
+
+## O que é a aba Social do app Smart Fit?
+R: A aba Social é o espaço de interação da Smart Fit! O app continua focado nos treinos, mas agora você pode compartilhar o registro de treinos, visualizar o progresso de amigos e participar de desafios para se manter motivado.
+O recurso está disponível para todos os alunos com plano ativo e maiores de 18 anos, e o acesso é feito diretamente pelo app, acessando "Social" na barra de navegação inferior.
+
+## O que são e como funcionam os desafios dentro do Social?
+R: Os desafios te ajudam a se manter motivado! Com metas de quantidade de dias ou total de treinos concluídos, junte os amigos em desafios específicos ou participe dos desafios da Smart Fit. O ranking permite acompanhar o progresso e estimular a competição entre os participantes. 
+Para participar, basta clicar no desafio desejado ou utilizar um código de desafio e selecionar "Participar". 
+Você pode criar quantos desafios desejar e competir com diferentes grupos de amigos, e pode sair a qualquer momento pelo menu de opções dentro do desafio.
+
+## Posso bloquear outros usuários dentro do Social?
+R: Sim! Para bloquear outros usuários, basta acessar o perfil e clicar nos três pontinhos. O bloqueio é silencioso, ou seja, o usuário bloqueado não recebe nenhuma notificação.
+
